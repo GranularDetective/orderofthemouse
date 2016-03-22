@@ -1,4 +1,4 @@
-var name = 16520518
+var name = 16520518;
 var Hapi = require("hapi");
 var server = new Hapi.Server(8080, "127.0.0.1");
 server.start(function() {
