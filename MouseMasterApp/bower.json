@@ -1,7 +1,7 @@
 {
   "name": "MouseMasterApp",
   "description": "A web-based RPG",
-  "main": "index.jd",
+  "main": "index.js",
   "authors": [
     "Shakyamuni177te <peter.carter.mail@gmail.com>"
   ],
